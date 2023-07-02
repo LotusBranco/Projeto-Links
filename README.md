@@ -43,5 +43,4 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 Esse projeto está sob a licença MIT.
 
 ---
-
-Feito por Rodrigo Souza junto com a Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Primeiro projeito feito por Rodrigo Souza junto com a Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
