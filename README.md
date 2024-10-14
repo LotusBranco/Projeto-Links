@@ -1,5 +1,4 @@
 <h1 align="center"> DevLinks </h1>
-https://lotusbranco.github.io/Projeto-Links/
 
 <p align="center">
 DevLinks é um agregador de links responsivo e com troca de tema que você pode usar como cartão de visitas nas suas redes sociais.  
